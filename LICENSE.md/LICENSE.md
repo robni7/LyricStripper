@@ -1,3 +1,7 @@
+LyricStripper is released under CC-BY-NC-SA 4.0 license.
+
+
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
